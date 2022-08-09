@@ -40,10 +40,15 @@ nav-item {
     font-size: 50px;
     color:#212121;
     display: flex;
-    padding: 60px;
+    padding: 100px;
     justify-content: space-around;
     flex-wrap: wrap;
     box-sizing: border-box
+}
+
+.herotextmain h1{
+    display: flex;
+    padding: 30px;
 }
 
 
@@ -106,10 +111,59 @@ nav-item {
     font-size: 22px;
     color:#fdc435;
     height:50%;
+    margin-left: 8%;
+    margin-top: 3%;
 }
 
 #userresearch p {
     color: #555;
     line-height: 22px;
     font-size: 18px;
+    margin-left: 8%;
+    margin-top: 1%;
 }
+
+.gif {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+#definitionideation h2 {
+    font-size: 50px;
+    color:#212121;
+    display: flex;
+    padding: 60px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    box-sizing: border-box
+}
+
+#definitionideation h1 {
+    font-size: 22px;
+    color:#fdc435;
+    height:50%;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+
+#definitionideation p {
+    color: #555;
+    line-height: 22px;
+    font-size: 18px;
+    margin-left: 8%;
+    margin-top: 1%;
+}
+
+#prototyping h2 {
+    font-size: 50px;
+    color:#212121;
+    display: flex;
+    padding: 60px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    box-sizing: border-box
+}
+
